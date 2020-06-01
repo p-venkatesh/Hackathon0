@@ -29,3 +29,4 @@
 # Competition Result
 1. Rank: 39th on public LB and 82th on private LB.
 
+<img src = "Screenshot 2020-06-01 at 12.00.16 AM.png">
