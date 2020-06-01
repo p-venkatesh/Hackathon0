@@ -29,4 +29,3 @@
 # Competition Result
 1. Rank: 39th on public LB and 82th on private LB.
 
-<img src = "">
