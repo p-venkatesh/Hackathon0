@@ -38,6 +38,10 @@ You can use any combination of the features in the dataset to make your loan rat
 4. matplotlib and seaborn was used for plotting and analyzing the data.
 
 
+## Evaluation Metric
+The evaluation metric for this competition is Weighted F1 Score.
+
+
 # Competition Result
 
 
