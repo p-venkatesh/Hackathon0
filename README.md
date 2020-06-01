@@ -21,14 +21,25 @@
 
 ### Tools used
 
+
 1. Python for programming.
 2. sklearn and numpy libraries for methodology.
 3. LightGBM and XGBoost for the final model.
 4. matplotlib and seaborn was used for plotting and analyzing the data.
 
+
 # Competition Result
-1. Rank: 39th on public LB and 82th on private LB.
+
+
+1. Rank: 39th on public LB.
 
 <img src = "Screenshot 2020-06-01 at 12.00.16 AM.png">
 
-2. [Link to LeaderBoard](https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#LeaderBoard "LCO")
+
+2. Rank: 82th on private LB.
+
+<img src = "Screenshot 2020-06-01 at 8.53.39 AM.png">
+
+3. Top 1 percentile.
+
+4. [Link to LeaderBoard](https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#LeaderBoard "LCO")
